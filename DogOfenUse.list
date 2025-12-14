@@ -1,7 +1,7 @@
 # DNS泄露测试
 DOMAIN-SUFFIX,dnsleaktest.com
 # 可以直连的DNS泄露测试页面
-#DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.com
 
 # 老王论坛
 DOMAIN-SUFFIX,laowang.vip
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,hacg.pics
 # Anime-Sharing
 DOMAIN-SUFFIX,anime-sharing.com
 DOMAIN-SUFFIX,jsdelivr.top
+
 
 
 
