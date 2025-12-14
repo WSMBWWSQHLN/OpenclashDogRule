@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,laowang.vip
 DOMAIN-SUFFIX,xsijishe.net
 DOMAIN-SUFFIX,urlimage.cc
 
+# 南+论坛
+DOMAIN-SUFFIX,spring-plus.net
+
 # ASMR Online
 DOMAIN-SUFFIX,asmr.one
 DOMAIN-KEYWORD,api.asmr
@@ -27,6 +30,7 @@ DOMAIN-SUFFIX,hacg.pics
 # Anime-Sharing
 DOMAIN-SUFFIX,anime-sharing.com
 DOMAIN-SUFFIX,jsdelivr.top
+
 
 
 
