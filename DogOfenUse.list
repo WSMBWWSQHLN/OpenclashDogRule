@@ -33,6 +33,12 @@ DOMAIN-SUFFIX,hacg.pics
 DOMAIN-SUFFIX,anime-sharing.com
 DOMAIN-SUFFIX,jsdelivr.top
 
+# hanime
+DOMAIN-SUFFIX,hanime1.me
+# 可以直连，但有时候加载很慢，不加入分流规则可以省流量
+#DOMAIN-SUFFIX,hembed.com
+
+
 
 
 
