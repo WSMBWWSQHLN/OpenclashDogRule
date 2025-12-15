@@ -35,8 +35,9 @@ DOMAIN-SUFFIX,jsdelivr.top
 
 # hanime
 DOMAIN-SUFFIX,hanime1.me
-# 可以直连，但有时候加载很慢，不加入分流规则可以省流量
+# 可以直连，没有缓存时加载慢，但还在可接受范围，不加入分流规则可以省很多流量
 #DOMAIN-SUFFIX,hembed.com
+
 
 
 
