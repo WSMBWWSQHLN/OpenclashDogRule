@@ -37,13 +37,6 @@ DOMAIN-SUFFIX,jsdelivr.top
 DOMAIN-SUFFIX,hanime1.me
 
 
-dns:
-  nameserver-policy:
-    # hanime的图形服务器dns解析不走直连，流量走直连
-    vdownload.hembed.com: 8.8.8.8
-
-
-
 
 
 
