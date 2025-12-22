@@ -1,0 +1,4 @@
+dns:
+  nameserver-policy:
+    # 只让hanime图片和视频的DNS解析走代理，其他流量走直连
+    vdownload.hembed.com: 8.8.8.8
