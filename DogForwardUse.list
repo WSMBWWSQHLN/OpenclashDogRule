@@ -36,8 +36,9 @@ DOMAIN-SUFFIX,jsdelivr.top
 # hanime
 DOMAIN-SUFFIX,hanime1.me
 
-# acg网盘共享
+# acg资源网盘共享
 DOMAIN-SUFFIX,acgdb.de
+DOMAIN-SUFFIX,z.clarity.ms
 
 
 
