@@ -40,7 +40,8 @@ DOMAIN-SUFFIX,vdownload.hembed.com
 # acg资源网盘共享
 DOMAIN-SUFFIX,acgdb.de
 
-
+# tailscale官网
+DOMAIN-SUFFIX,ailscale.com
 
 
 
