@@ -43,7 +43,9 @@ DOMAIN-SUFFIX,acgdb.de
 # tailscale官网
 DOMAIN-SUFFIX,ailscale.com
 
-
+# 伊莉討論區
+DOMAIN-SUFFIX,hanime1.me,eyny.com
+DOMAIN-SUFFIX,static-file.com
 
 
 
